@@ -57,7 +57,7 @@ Copyright (c) 2019 Imre Nagi
 ```
 
 ## Credits
-- MySQL Storage for OAuth 2.0 [`https://github.com/imrenagi/go-oauth2-mysql`](https://https://github.com/imrenagi/go-oauth2-mysql)
+- MySQL Storage for OAuth 2.0 [`https://github.com/imrenagi/go-oauth2-mysql`](https://github.com/imrenagi/go-oauth2-mysql)
 - Oauth Postgres Implementation [`github.com/vgarvardt/go-pg-adapter`](https://github.com/vgarvardt/go-pg-adapter)
 
 [godoc-url]: https://godoc.org/github.com/httpoz/go-oauth2-mysql/v2
