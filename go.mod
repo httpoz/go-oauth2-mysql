@@ -1,4 +1,4 @@
-module github.com/httpoz/go-oauth2-mysql
+module github.com/httpoz/go-oauth2-mysql/v2
 
 go 1.18
 
