@@ -6,7 +6,7 @@
 ## Install
 
 ```bash
-$ go get -u -v github.com/httpoz/go-oauth2-mysql
+$ go get -u -v github.com/httpoz/go-oauth2-mysql/v2
 ```
 
 ## MySQL drivers
@@ -20,7 +20,7 @@ package main
 
 import (
 	_ "github.com/go-sql-driver/mysql"
-	mysql "github.com/httpoz/go-oauth2-mysql"
+	mysql "github.com/httpoz/go-oauth2-mysql/v2"
 	"github.com/jmoiron/sqlx"
 )
 
@@ -60,7 +60,7 @@ Copyright (c) 2019 Imre Nagi
 - MySQL Storage for OAuth 2.0 [`https://github.com/imrenagi/go-oauth2-mysql`](https://https://github.com/imrenagi/go-oauth2-mysql)
 - Oauth Postgres Implementation [`github.com/vgarvardt/go-pg-adapter`](https://github.com/vgarvardt/go-pg-adapter)
 
-[godoc-url]: https://godoc.org/github.com/httpoz/go-oauth2-mysql
-[godoc-image]: https://godoc.org/github.com/httpoz/go-oauth2-mysql?status.svg
+[godoc-url]: https://godoc.org/github.com/httpoz/go-oauth2-mysql/v2
+[godoc-image]: https://godoc.org/github.com/httpoz/go-oauth2-mysql/v2?status.svg
 [license-url]: http://opensource.org/licenses/MIT
 [license-image]: https://img.shields.io/npm/l/express.svg

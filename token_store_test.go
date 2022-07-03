@@ -14,7 +14,7 @@ import (
 
 	"github.com/go-oauth2/oauth2/v4/models"
 
-	. "github.com/httpoz/go-oauth2-mysql"
+	. "github.com/httpoz/go-oauth2-mysql/v2"
 )
 
 func generateTokenTableName() string {
